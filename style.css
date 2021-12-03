@@ -1,0 +1,38 @@
+footer {
+  background-color: #4285f4;
+}
+
+#logoutBtn {
+  margin-left: 2rem;
+}
+
+#usernameP {
+  display: inline;
+}
+#passwordP {
+  display: inline;
+}
+
+.logo {
+  right: 0%;
+  position: absolute;
+  margin-right: 2rem;
+}
+
+#logoutBtn {
+  display: inline;
+}
+
+.maintext {
+  font-size: 3rem;
+  text-align: center;
+  margin-top: 20rem;
+}
+
+#tryAgain {
+  margin-left: 39rem;
+}
+
+#loginBtn {
+  margin-left: 2rem;
+}
